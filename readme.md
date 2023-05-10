@@ -15,6 +15,15 @@
 * Use [caniuse.com](https://caniuse.com/) to check the browser support of css rules
 which you plan to apply.
 
+The final homepage for desktop display is as follows:
+![Desktop display](./desktop.png)
+
+The final homepage for mobile display is as follows:
+![Desktop display](./mobile.png)
+
+Note: One can observe that the sidebar logo disappears when we have a mobile display but shows in despktop one. 
+
+
 ## Reference
 1. Craig Shoemaker's PluralSight course 
 2. https://developer.mozilla.org/en-US/docs/Web/HTML/Element
